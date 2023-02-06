@@ -1,0 +1,11 @@
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\26. Практически задачи за изпит по програмиране – тема 3\DoubleLinkedList_V\bin\Debug\DoubleLinkedList_V.exe.config
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\26. Практически задачи за изпит по програмиране – тема 3\DoubleLinkedList_V\bin\Debug\DoubleLinkedList_V.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\26. Практически задачи за изпит по програмиране – тема 3\DoubleLinkedList_V\bin\Debug\DoubleLinkedList_V.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\26. Практически задачи за изпит по програмиране – тема 3\DoubleLinkedList_V\obj\Debug\DoubleLinkedList_V.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\26. Практически задачи за изпит по програмиране – тема 3\DoubleLinkedList_V\obj\Debug\DoubleLinkedList_V.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\DoubleLinkedList_V\bin\Debug\DoubleLinkedList_V.exe.config
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\DoubleLinkedList_V\obj\Debug\DoubleLinkedList_V.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\DoubleLinkedList_V\obj\Debug\DoubleLinkedList_V.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\DoubleLinkedList_V\bin\Debug\DoubleLinkedList_V.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\DoubleLinkedList_V\bin\Debug\DoubleLinkedList_V.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\DoubleLinkedList_V\obj\Debug\DoubleLinkedList_V.csprojResolveAssemblyReference.cache
