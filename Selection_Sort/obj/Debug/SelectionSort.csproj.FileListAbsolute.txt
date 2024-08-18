@@ -1,0 +1,23 @@
+C:\Users\Georgi SSD2\Desktop\Projects\OT Urocite\7_Masivi\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\Georgi SSD2\Desktop\Projects\OT Urocite\7_Masivi\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\Georgi SSD2\Desktop\Projects\OT Urocite\7_Masivi\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\Georgi SSD2\Desktop\Projects\OT Urocite\7_Masivi\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\Georgi SSD2\Desktop\Projects\OT Urocite\7_Masivi\SelectionSort\obj\Debug\SelectionSort.pdb
+C:\Users\Georgi SSD2\Desktop\Projects\OT Urocite\7_Masivi\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV2\Desktop\Programi za GitHub\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\GeorgiV2\Desktop\Programi za GitHub\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\GeorgiV2\Desktop\Programi za GitHub\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\GeorgiV2\Desktop\Programi za GitHub\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\GeorgiV2\Desktop\Programi za GitHub\SelectionSort\obj\Debug\SelectionSort.pdb
+C:\Users\GeorgiV2\Desktop\Programi za GitHub\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\SelectionSort\obj\Debug\SelectionSort.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\SelectionSort\obj\Debug\SelectionSort.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
