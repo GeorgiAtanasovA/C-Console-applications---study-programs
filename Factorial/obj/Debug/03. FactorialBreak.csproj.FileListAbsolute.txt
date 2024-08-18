@@ -1,0 +1,16 @@
+C:\Users\GeorgiV2\Documents\Visual Studio 2015\Projects\Примери и Решения от Уроците\FactorialBreak\bin\Debug\FactorialBreak.exe
+C:\Users\GeorgiV2\Documents\Visual Studio 2015\Projects\Примери и Решения от Уроците\FactorialBreak\bin\Debug\FactorialBreak.pdb
+C:\Users\GeorgiV2\Documents\Visual Studio 2015\Projects\Примери и Решения от Уроците\FactorialBreak\obj\Debug\03. FactorialBreak.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV2\Documents\Visual Studio 2015\Projects\Примери и Решения от Уроците\FactorialBreak\obj\Debug\FactorialBreak.exe
+C:\Users\GeorgiV2\Documents\Visual Studio 2015\Projects\Примери и Решения от Уроците\FactorialBreak\obj\Debug\FactorialBreak.pdb
+C:\Users\GeorgiV2\Desktop\Programi za GitHub\FactorialBreak\obj\Debug\FactorialBreak.exe
+C:\Users\GeorgiV2\Desktop\Programi za GitHub\FactorialBreak\obj\Debug\FactorialBreak.pdb
+C:\Users\GeorgiV2\Desktop\Programi za GitHub\FactorialBreak\bin\Debug\FactorialBreak.exe
+C:\Users\GeorgiV2\Desktop\Programi za GitHub\FactorialBreak\bin\Debug\FactorialBreak.pdb
+C:\Users\GeorgiV2\Desktop\Programi za GitHub\FactorialBreak\obj\Debug\03. FactorialBreak.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\FactorialBreak\bin\Debug\FactorialBreak.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\FactorialBreak\obj\Debug\FactorialBreak.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\FactorialBreak\obj\Debug\FactorialBreak.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\FactorialBreak\bin\Debug\FactorialBreak.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\FactorialBreak\bin\Debug\FactorialBreak.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\FactorialBreak\obj\Debug\03. FactorialBreak.csprojResolveAssemblyReference.cache
