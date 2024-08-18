@@ -1,0 +1,8 @@
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\SelectionSort\bin\Debug\Selection_Sort.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\SelectionSort\bin\Debug\Selection_Sort.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\SelectionSort\bin\Debug\Selection_Sort.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\SelectionSort\obj\Debug\Selection_Sort.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\SelectionSort\obj\Debug\Selection_Sort.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Selection_Sort\bin\Debug\Selection_Sort.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Selection_Sort\obj\Debug\Selection_Sort.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Selection_Sort\obj\Debug\Selection_Sort.pdb
