@@ -1,0 +1,5 @@
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\BinarySearch\bin\Debug\Binary_Search.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\BinarySearch\bin\Debug\Binary_Search.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\BinarySearch\bin\Debug\Binary_Search.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\BinarySearch\obj\Debug\Binary_Search.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\BinarySearch\obj\Debug\Binary_Search.pdb
