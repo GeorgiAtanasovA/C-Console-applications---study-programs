@@ -1,0 +1,23 @@
+C:\Users\Georgi 4\Documents\Visual Studio 2013\Projects\17 Дървета и графи\15 Zada4a\bin\Debug\15 Zada4a.exe.config
+C:\Users\Georgi 4\Documents\Visual Studio 2013\Projects\17 Дървета и графи\15 Zada4a\bin\Debug\15 Zada4a.exe
+C:\Users\Georgi 4\Documents\Visual Studio 2013\Projects\17 Дървета и графи\15 Zada4a\bin\Debug\15 Zada4a.pdb
+C:\Users\Georgi 4\Documents\Visual Studio 2013\Projects\17 Дървета и графи\15 Zada4a\obj\Debug\15 Zada4a.exe
+C:\Users\Georgi 4\Documents\Visual Studio 2013\Projects\17 Дървета и графи\15 Zada4a\obj\Debug\15 Zada4a.pdb
+C:\Users\Georgi 4\Documents\Visual Studio 2015\Projects\17 Дървета и графи\15 Zada4a\bin\Debug\15 Zada4a.exe.config
+C:\Users\Georgi 4\Documents\Visual Studio 2015\Projects\17 Дървета и графи\15 Zada4a\obj\Debug\15 Zada4a.exe
+C:\Users\Georgi 4\Documents\Visual Studio 2015\Projects\17 Дървета и графи\15 Zada4a\obj\Debug\15 Zada4a.pdb
+C:\Users\Georgi 4\Documents\Visual Studio 2015\Projects\17 Дървета и графи\15 Zada4a\bin\Debug\15 Zada4a.exe
+C:\Users\Georgi 4\Documents\Visual Studio 2015\Projects\17 Дървета и графи\15 Zada4a\bin\Debug\15 Zada4a.pdb
+C:\Users\Georgi 4\Documents\Visual Studio 2015\Projects\17 Дървета и графи\15 Zada4a\obj\Debug\15 Zada4a.csprojResolveAssemblyReference.cache
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\17 Дървета и графи\15 Zada4a\bin\Debug\15 Zada4a.exe.config
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\17 Дървета и графи\15 Zada4a\bin\Debug\15 Zada4a.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\17 Дървета и графи\15 Zada4a\bin\Debug\15 Zada4a.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\17 Дървета и графи\15 Zada4a\obj\Debug\15 Zada4a.csprojResolveAssemblyReference.cache
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\17 Дървета и графи\15 Zada4a\obj\Debug\15 Zada4a.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\17 Дървета и графи\15 Zada4a\obj\Debug\15 Zada4a.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\4 - C#\17 Дървета и графи\15 Zada4a\bin\Debug\15 Zada4a.exe.config
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\4 - C#\17 Дървета и графи\15 Zada4a\bin\Debug\15 Zada4a.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\4 - C#\17 Дървета и графи\15 Zada4a\bin\Debug\15 Zada4a.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\4 - C#\17 Дървета и графи\15 Zada4a\obj\Debug\15 Zada4a.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\4 - C#\17 Дървета и графи\15 Zada4a\obj\Debug\15 Zada4a.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\4 - C#\17 Дървета и графи\15 Zada4a\obj\Debug\15 Zada4a.pdb
