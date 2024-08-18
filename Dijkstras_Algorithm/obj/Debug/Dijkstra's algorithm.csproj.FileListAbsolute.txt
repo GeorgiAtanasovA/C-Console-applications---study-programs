@@ -1,0 +1,11 @@
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\Dijkstra's algorithm\bin\Debug\Dijkstra's algorithm.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\Dijkstra's algorithm\bin\Debug\Dijkstra's algorithm.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\Dijkstra's algorithm\bin\Debug\Dijkstra's algorithm.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\Dijkstra's algorithm\obj\Debug\Dijkstra's algorithm.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\Dijkstra's algorithm\obj\Debug\Dijkstra's algorithm.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\Dijkstra's algorithm\obj\Debug\Dijkstra's algorithm.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Dijkstra's algorithm\bin\Debug\Dijkstra's algorithm.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Dijkstra's algorithm\bin\Debug\Dijkstra's algorithm.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Dijkstra's algorithm\bin\Debug\Dijkstra's algorithm.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Dijkstra's algorithm\obj\Debug\Dijkstra's algorithm.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Dijkstra's algorithm\obj\Debug\Dijkstra's algorithm.pdb
