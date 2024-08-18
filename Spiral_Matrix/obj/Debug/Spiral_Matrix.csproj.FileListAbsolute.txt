@@ -1,0 +1,18 @@
+C:\Users\GeorgiV2\Desktop\Programi za GitHub\Spiral_Matrix\bin\Debug\Spiral_Matrix.pdb
+C:\Users\GeorgiV2\Desktop\Programi za GitHub\Spiral_Matrix\obj\Debug\Spiral_Matrix.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV2\Desktop\Programi za GitHub\Spiral_Matrix\obj\Debug\Spiral_Matrix.pdb
+C:\Users\GeorgiV2\Desktop\Programi za GitHub\Spiral_Matrix\bin\Debug\Spiral_Matrix.exe.config
+C:\Users\GeorgiV2\Desktop\Programi za GitHub\Spiral_Matrix\bin\Debug\Spiral_Matrix.exe
+C:\Users\GeorgiV2\Desktop\Programi za GitHub\Spiral_Matrix\obj\Debug\Spiral_Matrix.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\Spiral_Matrix\bin\Debug\Spiral_Matrix.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\Spiral_Matrix\obj\Debug\Spiral_Matrix.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\Spiral_Matrix\obj\Debug\Spiral_Matrix.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\Spiral_Matrix\bin\Debug\Spiral_Matrix.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\Spiral_Matrix\bin\Debug\Spiral_Matrix.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\Spiral_Matrix\obj\Debug\Spiral_Matrix.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Spiral_Matrix\bin\Debug\Spiral_Matrix.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Spiral_Matrix\bin\Debug\Spiral_Matrix.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Spiral_Matrix\bin\Debug\Spiral_Matrix.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Spiral_Matrix\obj\Debug\Spiral_Matrix.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Spiral_Matrix\obj\Debug\Spiral_Matrix.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Spiral_Matrix\obj\Debug\Spiral_Matrix.csprojResolveAssemblyReference.cache
