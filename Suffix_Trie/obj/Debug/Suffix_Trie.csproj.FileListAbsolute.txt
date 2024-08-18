@@ -1,0 +1,12 @@
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Suffix Trie\bin\Debug\Suffix_Trie.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Suffix Trie\bin\Debug\Suffix_Trie.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Suffix Trie\bin\Debug\Suffix_Trie.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Suffix Trie\obj\Debug\Suffix_Trie.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Suffix Trie\obj\Debug\Suffix_Trie.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Suffix Trie\obj\Debug\Suffix_Trie.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Suffix_Trie\bin\Debug\Suffix_Trie.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Suffix_Trie\obj\Debug\Suffix_Trie.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Suffix_Trie\obj\Debug\Suffix_Trie.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Suffix_Trie\bin\Debug\Suffix_Trie.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Suffix_Trie\bin\Debug\Suffix_Trie.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Study App\Suffix_Trie\obj\Debug\Suffix_Trie.csprojResolveAssemblyReference.cache
